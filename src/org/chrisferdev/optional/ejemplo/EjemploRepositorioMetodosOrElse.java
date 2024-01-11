@@ -1,6 +1,8 @@
-package org.chrisferdev.optional.ejemplo.repositorio;
+package org.chrisferdev.optional.ejemplo;
 
 import org.chrisferdev.optional.ejemplo.models.Computador;
+import org.chrisferdev.optional.ejemplo.repositorio.ComputadorRepositorio;
+import org.chrisferdev.optional.ejemplo.repositorio.Repositorio;
 
 public class EjemploRepositorioMetodosOrElse {
     public static void main(String[] args) {
